@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ganesh Sridharan
 - 👀 I’m interested in learning DevOps and Cloud concepts
 - 🌱 I’m currently learning DevOps
-- 
+  
 
 
 <!---
